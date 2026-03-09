@@ -3,14 +3,14 @@
 # Volkan Bülbül 🚀
 ### Full-Stack Developer
 
-[![Stat](https://github-readme-stats.vercel.app/api?username=volkanbb&show_icons=true&theme=radical)](https://github.com/volkanbb)
+![Stat](https://github-readme-stats.vercel.app/api?username=volkanbb&show_icons=true&theme=radical)
 
 </div>
 
 ---
 
-<details>
-<summary><b>🇹🇷 Türkçe İçerik İçin Tıklayın (Click for Turkish)</b></summary>
+<details open>
+<summary><b>🇹🇷 Türkçe İçerik (Varsayılan)</b></summary>
 
 ### 👨‍💻 Hakkımda
 [cite_start]Isparta Uygulamalı Bilimler Üniversitesi **Bilgisayar Programcılığı** mezunu bir yazılımcıyım[cite: 42, 44]. [cite_start]Web uygulama geliştirme, veri yapıları ve makine öğrenimi alanlarında modern ve sürdürülebilir çözümler üretmeye odaklanıyorum[cite: 15, 17].
@@ -29,17 +29,17 @@
 </details>
 
 <details>
-<summary><b>🇺🇸 Click for English Content (İngilizce İçerik)</b></summary>
+<summary><b>🇺🇸 Click for English Content</b></summary>
 
 ### 👨‍💻 About Me
 [cite_start]I am a Full-Stack Developer graduated from Isparta University of Applied Sciences in **Computer Programming**[cite: 42, 44]. [cite_start]I focus on developing modern and sustainable software solutions in web development, data structures, and machine learning[cite: 15, 17].
 
-* [cite_start]📍 **Location:** Antalya, Turkey[cite: 5].
+* [cite_start]📍 **Location:** Antalya, Türkiye[cite: 5].
 * [cite_start]💼 **Experience:** Worked on Full-Stack processes and database management at Veboni ERP[cite: 21, 22].
 * [cite_start]🎯 **Goal:** To produce value-added solutions by improving technical skills in innovative projects[cite: 16].
 
 ### 🛠️ Technologies & Skills
-* [cite_start]**Languages:** C#, Python, JavaScript, HTML, CSS[cite: 8, 9, 10, 11, 12, 13, 24].
+* [cite_start]**Languages:** C#, Python, JavaScript, HTML, CSS[cite: 8, 9, 10, 12, 13, 24].
 * [cite_start]**Frameworks:** ASP.NET Core, Angular, Node.js[cite: 8, 11, 30].
 * [cite_start]**Databases & Tools:** PostgreSQL, Docker, Git, DevOps, API Integration[cite: 25, 26, 27, 28, 32].
 
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 Top Languages
+### 📊 En Çok Kullanılan Diller / Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkanbb&layout=compact&theme=radical" alt="Top Languages" />
 </p>
