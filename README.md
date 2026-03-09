@@ -13,11 +13,11 @@
 <summary><b>🇹🇷 Türkçe İçerik (Varsayılan)</b></summary>
 
 ### 👨‍💻 Hakkımda
-[cite_start]Isparta Uygulamalı Bilimler Üniversitesi **Bilgisayar Programcılığı** mezunu bir yazılımcıyım[cite: 42, 44]. [cite_start]Web uygulama geliştirme, veri yapıları ve makine öğrenimi alanlarında modern ve sürdürülebilir çözümler üretmeye odaklanıyorum[cite: 15, 17].
+Isparta Uygulamalı Bilimler Üniversitesi **Bilgisayar Programcılığı** mezunu bir yazılımcıyım. Web uygulama geliştirme, veri yapıları ve makine öğrenimi alanlarında modern ve sürdürülebilir çözümler üretmeye odaklanıyorum.
 
-* [cite_start]📍 **Konum:** Antalya, Türkiye[cite: 5].
-* [cite_start]💼 **Deneyim:** Veboni ERP bünyesinde Full-Stack süreçlerinde ve veritabanı yönetiminde görev aldım[cite: 21, 22].
-* [cite_start]🎯 **Hedef:** Yenilikçi projelerde teknik becerilerimi geliştirerek katma değer üretmek[cite: 16].
+* [cite_start]📍 **Konum:** Antalya, Türkiye.
+* [cite_start]💼 **Deneyim:** Veboni ERP bünyesinde Full-Stack süreçlerinde ve veritabanı yönetiminde görev aldım.
+* [cite_start]🎯 **Hedef:** Yenilikçi projelerde teknik becerilerimi geliştirerek katma değer üretmek.
 
 ### 🛠️ Teknolojiler & Yetenekler
 | Kategori | Teknolojiler |
@@ -32,16 +32,16 @@
 <summary><b>🇺🇸 Click for English Content</b></summary>
 
 ### 👨‍💻 About Me
-[cite_start]I am a Full-Stack Developer graduated from Isparta University of Applied Sciences in **Computer Programming**[cite: 42, 44]. [cite_start]I focus on developing modern and sustainable software solutions in web development, data structures, and machine learning[cite: 15, 17].
+I am a Full-Stack Developer graduated from Isparta University of Applied Sciences in **Computer Programming**. I focus on developing modern and sustainable software solutions in web development, data structures, and machine learning.
 
-* [cite_start]📍 **Location:** Antalya, Türkiye[cite: 5].
-* [cite_start]💼 **Experience:** Worked on Full-Stack processes and database management at Veboni ERP[cite: 21, 22].
-* [cite_start]🎯 **Goal:** To produce value-added solutions by improving technical skills in innovative projects[cite: 16].
+* 📍 **Location:** Antalya, Türkiye.
+* 💼 **Experience:** Worked on Full-Stack processes and database management at Veboni ERP.
+* 🎯 **Goal:** To produce value-added solutions by improving technical skills in innovative projects.
 
 ### 🛠️ Technologies & Skills
-* [cite_start]**Languages:** C#, Python, JavaScript, HTML, CSS[cite: 8, 9, 10, 12, 13, 24].
-* [cite_start]**Frameworks:** ASP.NET Core, Angular, Node.js[cite: 8, 11, 30].
-* [cite_start]**Databases & Tools:** PostgreSQL, Docker, Git, DevOps, API Integration[cite: 25, 26, 27, 28, 32].
+* **Languages:** C#, Python, JavaScript, HTML, CSS.
+* **Frameworks:** ASP.NET Core, Angular, Node.js.
+* **Databases & Tools:** PostgreSQL, Docker, Git, DevOps, API Integration.
 
 </details>
 
