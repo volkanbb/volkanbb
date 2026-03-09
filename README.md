@@ -3,7 +3,8 @@
 # Volkan Bülbül 🚀
 ### Full-Stack Developer
 
-![Stat](https://github-readme-stats.vercel.app/api?username=volkanbb&show_icons=true&theme=radical)
+![Stat](https://github-readme-stats-sigma-five.vercel.app/api?username=volkanbb&show_icons=true&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=volkanbb&theme=radical)
 
 </div>
 
@@ -15,9 +16,9 @@
 ### 👨‍💻 Hakkımda
 Isparta Uygulamalı Bilimler Üniversitesi **Bilgisayar Programcılığı** mezunu bir yazılımcıyım. Web uygulama geliştirme, veri yapıları ve makine öğrenimi alanlarında modern ve sürdürülebilir çözümler üretmeye odaklanıyorum.
 
-* [cite_start]📍 **Konum:** Antalya, Türkiye.
-* [cite_start]💼 **Deneyim:** Veboni ERP bünyesinde Full-Stack süreçlerinde ve veritabanı yönetiminde görev aldım.
-* [cite_start]🎯 **Hedef:** Yenilikçi projelerde teknik becerilerimi geliştirerek katma değer üretmek.
+* 📍 **Konum:** Antalya, Türkiye.
+* 💼 **Deneyim:** Veboni ERP bünyesinde Full-Stack süreçlerinde ve veritabanı yönetiminde görev aldım.
+* 🎯 **Hedef:** Yenilikçi projelerde teknik becerilerimi geliştirerek katma değer üretmek.
 
 ### 🛠️ Teknolojiler & Yetenekler
 | Kategori | Teknolojiler |
@@ -49,9 +50,9 @@ I am a Full-Stack Developer graduated from Isparta University of Applied Science
 
 ### 📊 En Çok Kullanılan Diller / Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkanbb&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=volkanbb&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### 📬 İletişim / Contact
-* [cite_start]📧 **Email:** [volkan_bulbul@hotmail.com](mailto:volkan_bulbul@hotmail.com) [cite: 4]
-* [cite_start]🔗 **GitHub:** [github.com/volkanbb](https://github.com/volkanbb) [cite: 6]
+* 📧 **Email:** [volkan_bulbul@hotmail.com](mailto:volkan_bulbul@hotmail.com) 
+* 🔗 **GitHub:** [github.com/volkanbb](https://github.com/volkanbb)
