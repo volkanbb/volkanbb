@@ -1,55 +1,56 @@
-## Hi there 👋, I'm Volkan Bülbül
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/volkanbb">
-    <img src="https://img.shields.io/badge/Full--Stack%20Developer-Blue?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-</p>
+# Volkan Bülbül 🚀
+### Full-Stack Developer
 
-### 🚀 Hakkımda
-[cite_start]Isparta Uygulamalı Bilimler Üniversitesi **Bilgisayar Programcılığı** mezunu bir **Full-Stack Developer**'ım. [cite: 1, 2, 42, 44] [cite_start]Web uygulama geliştirme, veri yapıları ve makine öğrenimi alanlarında kendimi sürekli geliştiriyor; modern ve sürdürülebilir yazılım çözümleri üretmeyi hedefliyorum. [cite: 15, 17]
+[🇹🇷 Türkçe](#türkçe) | [🇺🇸 English](#english)
 
-* [cite_start]🌍 Antalya, Türkiye'de ikamet ediyorum. [cite: 5]
-* [cite_start]💼 **Veboni ERP** bünyesinde Yazılım Stajyeri olarak kurumsal projelerde deneyim kazandım. [cite: 19, 21, 33]
-* [cite_start]🌱 Şu an teknik becerilerimi ileri taşımak ve yenilikçi projelerde yer almak için çalışıyorum. [cite: 16]
-
-### 🛠️ Teknolojiler ve Yetenekler
-
-#### Backend & Programlama Dilleri
-<p align="left">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
-#### Frontend & Tasarım
-<p align="left">
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-#### Veritabanı & Araçlar
-<p align="left">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-blueviolet?style=for-the-badge&logo=azure-devops&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 📈 GitHub İstatistiklerim
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=volkanbb&show_icons=true&theme=dark" alt="volkanbb github stats" />
-</p>
+<a name="türkçe"></a>
+## 🇹🇷 Türkçe
 
-### 📫 Benimle İletişime Geç
-* [cite_start]📧 **E-posta:** [volkan_bulbul@hotmail.com](mailto:volkan_bulbul@hotmail.com) [cite: 4]
-* 🔗 **LinkedIn:** [[LinkedIn Profilin Buraya](https://www.linkedin.com/in/volkan-b%C3%BClb%C3%BCl-57a2a8333/)]
-* [cite_start]📂 **GitHub:** [github.com/volkanbb](https://github.com/volkanbb) [cite: 6]
+### 👨‍💻 Hakkımda
+[cite_start]Isparta Uygulamalı Bilimler Üniversitesi **Bilgisayar Programcılığı** mezunu bir yazılımcıyım[cite: 42, 44]. [cite_start]Web uygulama geliştirme, veri yapıları ve makine öğrenimi alanlarında modern ve sürdürülebilir çözümler üretmeye odaklanıyorum[cite: 15, 17]. 
+
+* [cite_start]📍 **Konum:** Antalya, Türkiye[cite: 5].
+* [cite_start]💼 **Deneyim:** Veboni ERP bünyesinde Full-Stack süreçlerinde ve veritabanı yönetiminde görev aldım[cite: 21, 22].
+* [cite_start]🎯 **Hedef:** Yenilikçi projelerde teknik becerilerimi geliştirerek katma değer üretmek[cite: 16].
+
+### 🛠️ Teknolojiler & Yetenekler
+| Kategori | Teknolojiler |
+| :--- | :--- |
+| **Backend** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Araçlar** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white) |
 
 ---
-[cite_start]*Çözüm odaklı ve sürekli öğrenen bir yaklaşımla kodluyorum.* 💻✨ [cite: 17]
+
+<a name="english"></a>
+## 🇺🇸 English
+
+### 👨‍💻 About Me
+[cite_start]I am a Full-Stack Developer graduated from Isparta University of Applied Sciences in **Computer Programming**[cite: 42, 44]. [cite_start]I focus on developing modern and sustainable software solutions in web development, data structures, and machine learning[cite: 15, 17].
+
+* [cite_start]📍 **Location:** Antalya, Turkey[cite: 5].
+* [cite_start]💼 **Experience:** Worked on Full-Stack processes and database management at Veboni ERP[cite: 21, 22].
+* [cite_start]🎯 **Goal:** To produce value-added solutions by improving technical skills in innovative projects[cite: 16].
+
+### 🛠️ Technologies & Skills
+* [cite_start]**Languages:** C#, Python, JavaScript, HTML, CSS[cite: 9, 10, 12, 13, 24].
+* [cite_start]**Frameworks:** ASP.NET Core, Angular, Node.js[cite: 8, 11, 30].
+* [cite_start]**Databases & Tools:** PostgreSQL, Docker, Git, DevOps, API Integration[cite: 25, 26, 27, 28, 32].
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=volkanbb&show_icons=true&theme=radical" alt="Volkan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkanbb&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### 📬 Contact / İletişim
+* [cite_start]**Email:** [volkan_bulbul@hotmail.com](mailto:volkan_bulbul@hotmail.com) [cite: 4]
+* [cite_start]**GitHub:** [github.com/volkanbb](https://github.com/volkanbb) [cite: 6]
