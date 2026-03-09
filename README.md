@@ -40,9 +40,11 @@ I am a Full-Stack Developer graduated from Isparta University of Applied Science
 * 🎯 **Goal:** To produce value-added solutions by improving technical skills in innovative projects.
 
 ### 🛠️ Technologies & Skills
-* **Languages:** C#, Python, JavaScript, HTML, CSS.
-* **Frameworks:** ASP.NET Core, Angular, Node.js.
-* **Databases & Tools:** PostgreSQL, Docker, Git, DevOps, API Integration.
+| Kategori | Teknolojiler |
+| :--- | :--- |
+| **Backend** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Araçlar** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white) |
 
 </details>
 
