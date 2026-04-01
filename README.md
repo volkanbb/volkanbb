@@ -17,7 +17,7 @@
 Isparta Uygulamalı Bilimler Üniversitesi **Bilgisayar Programcılığı** mezunu bir yazılımcıyım. Web uygulama geliştirme, veri yapıları ve makine öğrenimi alanlarında modern ve sürdürülebilir çözümler üretmeye odaklanıyorum.
 
 * 📍 **Konum:** Antalya, Türkiye.
-* 💼 **Deneyim:** Veboni ERP bünyesinde Full-Stack süreçlerinde ve veritabanı yönetiminde görev aldım.
+* 💼 **Deneyim:** Veboni ERP bünyesinde Full-Stack süreçlerinde ve veritabanı yönetiminde stajyer olarak görev aldım.
 * 🎯 **Hedef:** Yenilikçi projelerde teknik becerilerimi geliştirerek katma değer üretmek.
 
 ### 🛠️ Teknolojiler & Yetenekler
