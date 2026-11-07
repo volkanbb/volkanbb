@@ -18,6 +18,8 @@
 
 ---
 
+<img align="right" width="260" src="./assets/cyber-avatar.svg" alt="cyber avatar" />
+
 ```bash
 ┌──(volkan㉿cyberdeck)-[~]
 └─$ whoami --verbose
@@ -86,8 +88,17 @@
 <h2 align="center">📡 // NETWORK_STATS</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=volkanbb&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=ff00ff&text_color=c9d1d9&ring_color=ff00ff" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=volkanbb&layout=compact&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9" />
+  <img width="100%" src="./profile-summary-card-output/2077/0-profile-details.svg" />
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/2077/3-stats.svg" />
+  <img width="49%" src="./profile-summary-card-output/2077/4-productive-time.svg" />
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/2077/1-repos-per-language.svg" />
+  <img width="49%" src="./profile-summary-card-output/2077/2-most-commit-language.svg" />
 </p>
 
 <p align="center">

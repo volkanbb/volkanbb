@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" width="320" height="320">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#7b2ff7" stroke-width="0.6" opacity="0.25"/>
+    </pattern>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff00ff" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#7b2ff7" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#7b2ff7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="visor" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00fff7"/>
+      <stop offset="100%" stop-color="#ff00ff"/>
+    </linearGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00fff7"/>
+      <stop offset="50%" stop-color="#7b2ff7"/>
+      <stop offset="100%" stop-color="#ff00ff"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="visorClip"><rect x="125" y="128" width="70" height="22" rx="11"/></clipPath>
+    <clipPath id="card"><rect x="4" y="4" width="312" height="312" rx="20"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="320" height="320" fill="#0d0221"/>
+    <rect width="320" height="320" fill="url(#grid)"/>
+
+    <!-- neon sun -->
+    <circle cx="160" cy="135" r="95" fill="url(#sun)">
+      <animate attributeName="r" values="88;100;88" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- floating code -->
+    <g font-family="Fira Code, Consolas, monospace" font-size="13" font-weight="bold">
+      <text x="30" fill="#00fff7">1<animate attributeName="y" values="330;-10" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite"/></text>
+      <text x="58" fill="#ff00ff">{ }<animate attributeName="y" values="330;-10" dur="8s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="8s" begin="2s" repeatCount="indefinite"/></text>
+      <text x="270" fill="#00fff7">0<animate attributeName="y" values="330;-10" dur="7s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="7s" begin="1s" repeatCount="indefinite"/></text>
+      <text x="285" fill="#ff00ff">&lt;/&gt;<animate attributeName="y" values="330;-10" dur="9s" begin="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="9s" begin="3s" repeatCount="indefinite"/></text>
+      <text x="40" fill="#7b2ff7">01<animate attributeName="y" values="330;-10" dur="10s" begin="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="10s" begin="4s" repeatCount="indefinite"/></text>
+      <text x="255" fill="#39ff14">$_<animate attributeName="y" values="330;-10" dur="7.5s" begin="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="7.5s" begin="5s" repeatCount="indefinite"/></text>
+    </g>
+
+    <!-- status -->
+    <circle cx="24" cy="26" r="4" fill="#39ff14" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="34" y="30" font-family="Fira Code, Consolas, monospace" font-size="11" fill="#39ff14">ONLINE</text>
+
+    <!-- glitch title -->
+    <g font-family="Fira Code, Consolas, monospace" font-size="18" font-weight="bold" text-anchor="middle">
+      <text x="160" y="46" fill="#ff00ff" opacity="0.8">VOLKAN.EXE<animate attributeName="x" values="160;160;163;157;160;160" keyTimes="0;0.8;0.85;0.9;0.95;1" dur="3s" repeatCount="indefinite"/></text>
+      <text x="160" y="46" fill="#00fff7">VOLKAN.EXE<animate attributeName="x" values="160;160;157;163;160;160" keyTimes="0;0.8;0.85;0.9;0.95;1" dur="3s" repeatCount="indefinite"/></text>
+    </g>
+
+    <!-- body -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="3s" repeatCount="indefinite"/>
+
+      <!-- shoulders -->
+      <path d="M62 320 Q70 222 160 210 Q250 222 258 320 Z" fill="#140a2e" stroke="#7b2ff7" stroke-width="2.5"/>
+      <path d="M140 212 L160 250 L180 212" fill="none" stroke="#ff00ff" stroke-width="2" opacity="0.8"/>
+
+      <!-- hood -->
+      <path d="M100 178 Q92 82 160 70 Q228 82 220 178 Q205 208 160 214 Q115 208 100 178 Z" fill="#120826" stroke="#00fff7" stroke-width="2.5" filter="url(#glow)"/>
+      <!-- face shadow -->
+      <path d="M118 166 Q115 104 160 99 Q205 104 202 166 Q190 192 160 194 Q130 192 118 166 Z" fill="#05010f"/>
+
+      <!-- ear piece -->
+      <circle cx="106" cy="150" r="7" fill="#ff00ff" filter="url(#glow)">
+        <animate attributeName="fill" values="#ff00ff;#00fff7;#ff00ff" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <path d="M106 157 Q112 178 132 176" fill="none" stroke="#ff00ff" stroke-width="1.5" opacity="0.7"/>
+
+      <!-- visor -->
+      <rect x="125" y="128" width="70" height="22" rx="11" fill="url(#visor)" filter="url(#glow)"/>
+      <g clip-path="url(#visorClip)">
+        <rect x="140" y="135" width="11" height="8" rx="2" fill="#ffffff">
+          <animate attributeName="height" values="8;8;1;8;8" keyTimes="0;0.88;0.92;0.96;1" dur="4s" repeatCount="indefinite"/>
+          <animate attributeName="y" values="135;135;138.5;135;135" keyTimes="0;0.88;0.92;0.96;1" dur="4s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="169" y="135" width="11" height="8" rx="2" fill="#ffffff">
+          <animate attributeName="height" values="8;8;1;8;8" keyTimes="0;0.88;0.92;0.96;1" dur="4s" repeatCount="indefinite"/>
+          <animate attributeName="y" values="135;135;138.5;135;135" keyTimes="0;0.88;0.92;0.96;1" dur="4s" repeatCount="indefinite"/>
+        </rect>
+        <rect y="128" width="5" height="22" fill="#ffffff" opacity="0.6">
+          <animate attributeName="x" values="120;196;120" dur="2.5s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+      <!-- smile -->
+      <path d="M150 172 Q160 179 170 172" fill="none" stroke="#00fff7" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <!-- laptop -->
+    <rect x="98" y="236" width="124" height="66" rx="5" fill="#0a0420" stroke="#ff00ff" stroke-width="2.5" filter="url(#glow)"/>
+    <text x="160" y="276" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="20" font-weight="bold" fill="#00fff7" filter="url(#glow)">&lt;/&gt;<animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/></text>
+    <polygon points="92,302 228,302 246,318 74,318" fill="#1a1033" stroke="#00fff7" stroke-width="2"/>
+  </g>
+
+  <rect x="4" y="4" width="312" height="312" rx="20" fill="none" stroke="url(#frame)" stroke-width="3"/>
+</svg>
